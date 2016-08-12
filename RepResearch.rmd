@@ -117,7 +117,6 @@ ggplot(dimputed_by_interval, aes(interval, steps)) +
     labs(x="Interval", y=expression("No of Steps")) +
     ggtitle("No of steps Per Interval by day type")
 
-
 ```
 
 
